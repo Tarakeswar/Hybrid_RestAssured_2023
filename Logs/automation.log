@@ -1,0 +1,48 @@
+04:45:53:845 [main] INFO  com.hybrid.api.test.UserTest - **************** creating user **********************
+04:45:58:933 [main] INFO  com.hybrid.api.test.UserTest - **************** User is created **********************
+04:45:58:967 [main] INFO  com.hybrid.api.test.UserTest - **************** Reading user Info **********************
+04:46:00:272 [main] INFO  com.hybrid.api.test.UserTest - **************** User Info is displayed**********************
+04:46:00:286 [main] INFO  com.hybrid.api.test.UserTest - **************** updating the user **********************
+04:46:04:371 [main] INFO  com.hybrid.api.test.UserTest - **************** User is updated**********************
+04:46:04:379 [main] INFO  com.hybrid.api.test.UserTest - **************** deleting the user **********************
+04:46:05:628 [main] INFO  com.hybrid.api.test.UserTest - **************** user is deleted  **********************
+05:07:08:166 [main] INFO  com.hybrid.api.test.UserTest2 - **************** creating user **********************
+05:07:14:624 [main] INFO  com.hybrid.api.test.UserTest2 - **************** User is created **********************
+05:07:14:668 [main] INFO  com.hybrid.api.test.UserTest2 - **************** Reading user Info **********************
+05:07:16:352 [main] INFO  com.hybrid.api.test.UserTest2 - **************** User Info is displayed**********************
+05:07:16:359 [main] INFO  com.hybrid.api.test.UserTest2 - **************** updating the user **********************
+05:07:19:297 [main] INFO  com.hybrid.api.test.UserTest2 - **************** User is updated**********************
+05:07:19:301 [main] INFO  com.hybrid.api.test.UserTest2 - **************** deleting the user **********************
+05:07:20:715 [main] INFO  com.hybrid.api.test.UserTest2 - **************** user is deleted  **********************
+05:19:56:841 [main] INFO  com.hybrid.api.test.UserTest - **************** creating user **********************
+05:19:58:196 [main] INFO  com.hybrid.api.test.UserTest - **************** User is created **********************
+05:19:58:199 [main] INFO  com.hybrid.api.test.UserTest - **************** Reading user Info **********************
+05:19:59:458 [main] INFO  com.hybrid.api.test.UserTest - **************** User Info is displayed**********************
+05:19:59:459 [main] INFO  com.hybrid.api.test.UserTest - **************** updating the user **********************
+05:20:01:917 [main] INFO  com.hybrid.api.test.UserTest - **************** User is updated**********************
+05:20:01:920 [main] INFO  com.hybrid.api.test.UserTest - **************** deleting the user **********************
+05:20:03:228 [main] INFO  com.hybrid.api.test.UserTest - **************** user is deleted  **********************
+05:23:30:756 [main] INFO  com.hybrid.api.test.UserTest2 - **************** creating user **********************
+05:23:37:811 [main] INFO  com.hybrid.api.test.UserTest2 - **************** User is created **********************
+05:23:37:879 [main] INFO  com.hybrid.api.test.UserTest2 - **************** Reading user Info **********************
+05:23:39:429 [main] INFO  com.hybrid.api.test.UserTest2 - **************** User Info is displayed**********************
+05:23:39:433 [main] INFO  com.hybrid.api.test.UserTest2 - **************** updating the user **********************
+05:23:42:365 [main] INFO  com.hybrid.api.test.UserTest2 - **************** User is updated**********************
+05:23:42:370 [main] INFO  com.hybrid.api.test.UserTest2 - **************** deleting the user **********************
+05:23:43:763 [main] INFO  com.hybrid.api.test.UserTest2 - **************** user is deleted  **********************
+05:24:44:924 [main] INFO  com.hybrid.api.test.UserTest2 - **************** creating user **********************
+05:24:50:941 [main] INFO  com.hybrid.api.test.UserTest2 - **************** User is created **********************
+05:24:50:977 [main] INFO  com.hybrid.api.test.UserTest2 - **************** Reading user Info **********************
+05:24:52:415 [main] INFO  com.hybrid.api.test.UserTest2 - **************** User Info is displayed**********************
+05:24:52:424 [main] INFO  com.hybrid.api.test.UserTest2 - **************** updating the user **********************
+05:24:55:129 [main] INFO  com.hybrid.api.test.UserTest2 - **************** User is updated**********************
+05:24:55:133 [main] INFO  com.hybrid.api.test.UserTest2 - **************** deleting the user **********************
+05:24:56:542 [main] INFO  com.hybrid.api.test.UserTest2 - **************** user is deleted  **********************
+05:31:27:998 [main] INFO  com.hybrid.api.test.UserTest2 - **************** creating user **********************
+05:31:35:628 [main] INFO  com.hybrid.api.test.UserTest2 - **************** User is created **********************
+05:31:35:679 [main] INFO  com.hybrid.api.test.UserTest2 - **************** Reading user Info **********************
+05:31:37:92 [main] INFO  com.hybrid.api.test.UserTest2 - **************** User Info is displayed**********************
+05:31:37:97 [main] INFO  com.hybrid.api.test.UserTest2 - **************** updating the user **********************
+05:31:39:644 [main] INFO  com.hybrid.api.test.UserTest2 - **************** User is updated**********************
+05:31:39:646 [main] INFO  com.hybrid.api.test.UserTest2 - **************** deleting the user **********************
+05:31:40:886 [main] INFO  com.hybrid.api.test.UserTest2 - **************** user is deleted  **********************

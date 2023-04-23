@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-23T05:31:25 IST" name="Pet Suite" finished-at="2023-04-23T05:31:40 IST" duration-ms="15373">
+    <groups>
+    </groups>
+    <test started-at="2023-04-23T05:31:25 IST" name="Pet Test" finished-at="2023-04-23T05:31:40 IST" duration-ms="15373">
+      <class name="com.hybrid.api.test.UserTest2">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.hybrid.api.test.UserTest2@24fcf36f]" started-at="2023-04-23T05:31:26 IST" name="setUp" finished-at="2023-04-23T05:31:27 IST" duration-ms="1859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testPostUser()[pri:1, instance:com.hybrid.api.test.UserTest2@24fcf36f]" started-at="2023-04-23T05:31:27 IST" name="testPostUser" finished-at="2023-04-23T05:31:35 IST" duration-ms="7647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUser -->
+        <test-method signature="getUserByName()[pri:2, instance:com.hybrid.api.test.UserTest2@24fcf36f]" started-at="2023-04-23T05:31:35 IST" name="getUserByName" finished-at="2023-04-23T05:31:37 IST" duration-ms="1413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserByName -->
+        <test-method signature="updateUserByName()[pri:3, instance:com.hybrid.api.test.UserTest2@24fcf36f]" started-at="2023-04-23T05:31:37 IST" name="updateUserByName" finished-at="2023-04-23T05:31:39 IST" duration-ms="2548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUserByName -->
+        <test-method signature="deleteUserByName()[pri:4, instance:com.hybrid.api.test.UserTest2@24fcf36f]" started-at="2023-04-23T05:31:39 IST" name="deleteUserByName" finished-at="2023-04-23T05:31:40 IST" duration-ms="1241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUserByName -->
+      </class> <!-- com.hybrid.api.test.UserTest2 -->
+    </test> <!-- Pet Test -->
+  </suite> <!-- Pet Suite -->
+</testng-results>
